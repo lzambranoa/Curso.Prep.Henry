@@ -1,0 +1,13 @@
+For:
+    traduce para es un ciclo o llamado bucle que realiza una accion en nuestro programa, mientras se cumplen las tres condiciones
+    que van dentro de el, como son asignar una variable, realizar una condicion y luego ir incrementando nuestra variable hasta alcanzar
+    nuestra condicion.
+
+&&:   Significa SI y nos sirve para comparar dos condiciones en donde se obliga que para continuar ambas se deben cumplir.
+    ejemplo: para cocinar una carne necesitamos la carne y el fuego
+
+||:  Significa O y nos sirve para comparar dos condiciones en donde si alguna de las dos es verdadera se cumple la condicion
+    ejemplo: podemos quitarnos la sed si tenemos una soda o un vaso de algua. 
+
+!:  Este signo se coloca antes del igual y nos dice que "No Es Igual" O que "Es Diferente"
+    Ejemplo 0 != 1
