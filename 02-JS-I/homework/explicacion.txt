@@ -1,0 +1,24 @@
+Variables:
+            Las variables son como carpetas organizadas donde puedes guardar cosas para usar en cualquier momento, 
+            para que sea bien organizada cada una debe llevar un nombre y el tipo de cosa que guardaste,
+            debe identificarse segun el tipo.
+
+String: 
+        Los String son texto normal que se usa dentro de una variable, es una de las tipo de cosas que puedes
+        guardar alli como por ejemplo tu nombre "leonardo", siempre debe estar entre comillas.
+    
+Funciones(argumentos, 'return'):
+        Las funciones son las cosas o acciones que va a realizar tu programa, esta puede llevar unos argumentos
+        que son la informacion que debe recibir la funcion para cumplir con su tarea,
+        para lograr tener la respuesta de nuestra funcion debemos usar la palabra return y luego de ello indicamos lo que 
+        esperamos nos devuelva.
+
+Declaraciones 'if':
+        If traduce "si" es una condicion que usamos para saber si algo es verdadero o falso y de acuerdo a ello
+        tomar una decision de como seguiremos avanzando en nuetro programa, se debe indicar if seguido de lo que 
+        queremos comprobar y su respectivo return y accion, luego usamos las palbra else que traduce "si no". es decir lo contrario
+
+Valores Booleanos 'true', 'false':
+        estos valores son usados para determinar cuando una comprobacion es verdadero o falso
+        true = verdadero
+        false = false
