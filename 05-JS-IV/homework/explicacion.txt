@@ -1,0 +1,18 @@
+Objetos:
+        los Objetos son una serie de coleccion de datos los cuales llevan un nombre clave unico asignado y un valor cada llave, que puede ser 
+        un numero, texto, booleano o mas objetos.
+
+Propiedades: 
+        Son los elementos que copnforman un objeto. 
+
+Métodos:
+        Son las funciones que van a realizar una accion con el objeto en el que se esta trabajando.
+    
+Bucle: "for...in":
+        este bucle es una herramienta que nos permite revisar todo nuestro objeto uno por uno, en cada una de nuestras propiedades y poder realizar
+        alguna operación con el. 
+
+Notacion de puntos vs Notacion de Corchetes: 
+        Con ambas notaciones podemos acceder a propiedades o metodos.
+        Se recomienda el uso de notacion de corchetes ya que esta nos permite acceder por ejemplo a propiedades que tiene espacios o caracteres 
+        que en la notacion de puntos no esta permitida. 
