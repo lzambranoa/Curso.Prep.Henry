@@ -1,0 +1,6 @@
+prototype: 
+    En primer lugar debemos recordar que en javaScript todo son objetos, y esta palabra reservada prototype es una propiedad de todos los objetos, ella representa
+    el prototipo de cada objeto y nos facilita. al agregar el metodo al objeto heredarlo a todos los demas objetos. 
+
+_Constructors_ (de Clases): 
+    Es un metodo especial par iniciar o crear un objeto creado con una clase, solo puede existir un metodo especial con el nombre "constructor". 
