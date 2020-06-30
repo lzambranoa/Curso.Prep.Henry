@@ -1,0 +1,4 @@
+Funciones Callbacks: 
+        Son como su nombre lo indica, llamadas de vuelta, quiere decir que cuando llamo una función, pasandole por 
+        parametro otra funcion(callback), este parametro se va a ejecutar solo cunado la funcion principal termine de 
+        ejecutarse. 
